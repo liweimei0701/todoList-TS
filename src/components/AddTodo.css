@@ -1,0 +1,20 @@
+.add {
+  display: flex;
+  justify-content: center;
+}
+
+.add button {
+  width: 70px;
+  cursor: pointer;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+}
+
+.content input {
+  width: 200px;
+  height: 40px;
+  border: 1px solid #ccc;
+}
